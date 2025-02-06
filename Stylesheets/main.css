@@ -1,0 +1,13 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+div {
+  margin: 8px;
+  padding: 8px;
+}
+.header {
+  background: royal blue;
+  color: white;
+  font-size: 4rem;
+}
